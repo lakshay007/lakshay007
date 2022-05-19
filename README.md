@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lakshay007
 - 👀 I’m interested in Machine Learning, Python , Computer Vision, DSA, Web development
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on an innovative project
 - 📫 How to reach me you can reach me on my email id dmslakshay@gmail.com
 
 <!---
