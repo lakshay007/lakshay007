@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @lakshay007
-- 👀 I’m interested in Machine Learning, Python , Computer Vision, DSA, Web development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on an innovative project
-- 📫 How to reach me you can reach me on my email id dmslakshay@gmail.com
 
-<!---
-lakshay007/lakshay007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Lakshay Chauhan</h1>
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="Coding" width="350" src="https://data.whicdn.com/images/309541334/original.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshay007&label=Profile%20views&color=0e75b6&style=flat" alt="lakshay007" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshay007" alt="lakshay007" /></a> </p>
+
+
+- 🌱 I’m currently learning **C++, Kotlin, Frontend development**
+
+- 👯 I’m looking to collaborate on **Awesome creative projects**
+
+- 📫 How to reach me **dmslakshay@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshay-chauhan-ba828b239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshay-chauhan-ba828b239/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/lakshay_chauha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/lakshay_chauha" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshay007&show_icons=true&locale=en&layout=compact" alt="lakshay007" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshay007&show_icons=true&locale=en" alt="lakshay007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay007&" alt="lakshay007" /></p>
