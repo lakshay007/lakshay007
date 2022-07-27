@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lakshay Chauhan</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">I like to build stuff</h3>
 <img align="right" alt="Coding" width="350" src="https://data.whicdn.com/images/309541334/original.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshay007&label=Profile%20views&color=0e75b6&style=flat" alt="lakshay007" /> </p>
