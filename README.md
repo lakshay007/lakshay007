@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Lakshay Chauhan</h1>
+<h1 align="center">Hi 👋, I'm Lakshay Goyal</h1>
 <h3 align="center">I like to build stuff</h3>
 <img align="right" alt="Coding" width="350" src="https://data.whicdn.com/images/309541334/original.gif">
 
