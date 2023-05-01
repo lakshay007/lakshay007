@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **C++, Flutter, Frontend development**
+- 🌱 I’m currently learning **C++, Flutter, Backend development**
 
 - 👯 I’m looking to collaborate on **Awesome creative projects**
 
