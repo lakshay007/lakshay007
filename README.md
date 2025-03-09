@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Lakshay Chauhan</h1>
+<h1 align="center">Hi 👋, I'm Lakshay</h1>
 <h3 align="center">I like to build stuff</h3>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif">
 
@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **C++, Sveltekit, Backend development**
+- 🌱 I’m currently learning **ML**
 
 - 👯 I’m looking to collaborate on **Awesome creative projects**
 
